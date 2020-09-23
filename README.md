@@ -1,5 +1,5 @@
 ### Hi there 👋
-[<img src="https://github.com/nazarethm24/nazarethm24/blob/master/Bolet%C3%ADn%20semanal%20inspirador.png"/>]
+<img src="https://github.com/nazarethm24/nazarethm24/blob/master/Bolet%C3%ADn%20semanal%20inspirador.png"/>
 <!--
 **nazarethm24/nazarethm24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
